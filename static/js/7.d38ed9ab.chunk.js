@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-epic"]=this["webpackJsonpmy-epic"]||[]).push([[7],{240:function(e,t,c){"use strict";c.r(t);c(0);var n=c(5);t.default=function(){return Object(n.jsx)(n.Fragment,{children:Object(n.jsx)("h1",{children:"About"})})}}}]);
+//# sourceMappingURL=7.d38ed9ab.chunk.js.map
